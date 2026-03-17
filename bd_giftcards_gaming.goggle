@@ -6,67 +6,67 @@
 ! issues: https://github.com/YourUsername/bd-giftcards-goggle/issues
 
 ! ======================================================
-! BOOST: HOMEPAGE & MAIN CATEGORY PAGES (boost=10)
+! BOOST: HOMEPAGE & MAIN CATEGORY PAGES
 ! ======================================================
 $boost=10,site=giftcardszonebd.com
-$boost=8,site=giftcardszonebd.com/card
-$boost=8,site=giftcardszonebd.com/topup
-$boost=8,site=giftcardszonebd.com/shop
+$boost=8,url_prefix=https://giftcardszonebd.com/card
+$boost=8,url_prefix=https://giftcardszonebd.com/topup
+$boost=8,url_prefix=https://giftcardszonebd.com/shop
 
 ! ======================================================
-! BOOST: GAMES TOP UP PAGES (boost=7)
+! BOOST: GAMES TOP UP PAGES
 ! ======================================================
-$boost=7,site=giftcardszonebd.com/free-fire-diamonds-top-up
-$boost=7,site=giftcardszonebd.com/roblox-robux-top-up
-$boost=7,site=giftcardszonebd.com/pubg-mobile-uc-top-up
-$boost=7,site=giftcardszonebd.com/efootball-coins-top-up
-$boost=7,site=giftcardszonebd.com/clash-of-clan-top-up
-$boost=7,site=giftcardszonebd.com/call-of-duty-mobile
+$boost=7,url_prefix=https://giftcardszonebd.com/free-fire-diamonds-top-up
+$boost=7,url_prefix=https://giftcardszonebd.com/roblox-robux-top-up
+$boost=7,url_prefix=https://giftcardszonebd.com/pubg-mobile-uc-top-up
+$boost=7,url_prefix=https://giftcardszonebd.com/efootball-coins-top-up
+$boost=7,url_prefix=https://giftcardszonebd.com/clash-of-clan-top-up
+$boost=7,url_prefix=https://giftcardszonebd.com/call-of-duty-mobile
 
 ! ======================================================
-! BOOST: GIFT CARD PAGES (boost=7)
+! BOOST: GIFT CARD PAGES
 ! ======================================================
-$boost=7,site=giftcardszonebd.com/itunes-gift-cards
-$boost=7,site=giftcardszonebd.com/steam-wallet-code
-$boost=7,site=giftcardszonebd.com/garena-shells-malaysia
-$boost=7,site=giftcardszonebd.com/google-play-gift-card-india
-$boost=7,site=giftcardszonebd.com/roblox-gift-card-usa
-$boost=7,site=giftcardszonebd.com/netflix-gift-card-united-states
-$boost=7,site=giftcardszonebd.com/blizzard-battlenet-balance-card-united-states
-$boost=7,site=giftcardszonebd.com/amazon-gift-card-united-states
-$boost=7,site=giftcardszonebd.com/xbox-live-gift-cards-united-states
-$boost=7,site=giftcardszonebd.com/psn-gift-card-bangladesh
-$boost=7,site=giftcardszonebd.com/nintendo-eshop-prepaid-us
-$boost=7,site=giftcardszonebd.com/hulu-plus-gift-card
+$boost=7,url_prefix=https://giftcardszonebd.com/itunes-gift-cards
+$boost=7,url_prefix=https://giftcardszonebd.com/steam-wallet-code
+$boost=7,url_prefix=https://giftcardszonebd.com/garena-shells-malaysia
+$boost=7,url_prefix=https://giftcardszonebd.com/google-play-gift-card-india
+$boost=7,url_prefix=https://giftcardszonebd.com/roblox-gift-card-usa
+$boost=7,url_prefix=https://giftcardszonebd.com/netflix-gift-card-united-states
+$boost=7,url_prefix=https://giftcardszonebd.com/blizzard-battlenet-balance-card-united-states
+$boost=7,url_prefix=https://giftcardszonebd.com/amazon-gift-card-united-states
+$boost=7,url_prefix=https://giftcardszonebd.com/xbox-live-gift-cards-united-states
+$boost=7,url_prefix=https://giftcardszonebd.com/psn-gift-card-bangladesh
+$boost=7,url_prefix=https://giftcardszonebd.com/nintendo-eshop-prepaid-us
+$boost=7,url_prefix=https://giftcardszonebd.com/hulu-plus-gift-card
 
 ! ======================================================
-! BOOST: GAMES KEY PAGES (boost=7)
+! BOOST: GAMES KEY PAGES
 ! ======================================================
-$boost=7,site=giftcardszonebd.com/fortnite-v-bucks-card
-$boost=7,site=giftcardszonebd.com/valorant-point-php-region
-$boost=7,site=giftcardszonebd.com/apex-legends-coins
-$boost=7,site=giftcardszonebd.com/fifa-23
-$boost=7,site=giftcardszonebd.com/valorant-point-gift-card
-$boost=7,site=giftcardszonebd.com/mobile-legends-bang-bang-diamond
-$boost=7,site=giftcardszonebd.com/pubgm-uc-code
-$boost=7,site=giftcardszonebd.com/free-fire-diamonds-pin-garena
-$boost=7,site=giftcardszonebd.com/unipin-voucher
+$boost=7,url_prefix=https://giftcardszonebd.com/fortnite-v-bucks-card
+$boost=7,url_prefix=https://giftcardszonebd.com/valorant-point-php-region
+$boost=7,url_prefix=https://giftcardszonebd.com/apex-legends-coins
+$boost=7,url_prefix=https://giftcardszonebd.com/fifa-23
+$boost=7,url_prefix=https://giftcardszonebd.com/valorant-point-gift-card
+$boost=7,url_prefix=https://giftcardszonebd.com/mobile-legends-bang-bang-diamond
+$boost=7,url_prefix=https://giftcardszonebd.com/pubgm-uc-code
+$boost=7,url_prefix=https://giftcardszonebd.com/free-fire-diamonds-pin-garena
+$boost=7,url_prefix=https://giftcardszonebd.com/unipin-voucher
 
 ! ======================================================
-! BOOST: SUBSCRIPTION PAGES (boost=7)
+! BOOST: SUBSCRIPTION PAGES
 ! ======================================================
-$boost=7,site=giftcardszonebd.com/turnitin-subscription
-$boost=7,site=giftcardszonebd.com/hoichoi-subscription
-$boost=7,site=giftcardszonebd.com/vpn
-$boost=7,site=giftcardszonebd.com/discord-nitro
-$boost=7,site=giftcardszonebd.com/quillbot-premium
-$boost=7,site=giftcardszonebd.com/amazon-prime-video
-$boost=7,site=giftcardszonebd.com/youtube-premium
-$boost=7,site=giftcardszonebd.com/internet-download-manager
-$boost=7,site=giftcardszonebd.com/adobe-creative-cloud
-$boost=7,site=giftcardszonebd.com/spotify-premium
-$boost=7,site=giftcardszonebd.com/surfshark-vpn
-$boost=7,site=giftcardszonebd.com/ipvanish-vpn
+$boost=7,url_prefix=https://giftcardszonebd.com/turnitin-subscription
+$boost=7,url_prefix=https://giftcardszonebd.com/hoichoi-subscription
+$boost=7,url_prefix=https://giftcardszonebd.com/vpn
+$boost=7,url_prefix=https://giftcardszonebd.com/discord-nitro
+$boost=7,url_prefix=https://giftcardszonebd.com/quillbot-premium
+$boost=7,url_prefix=https://giftcardszonebd.com/amazon-prime-video
+$boost=7,url_prefix=https://giftcardszonebd.com/youtube-premium
+$boost=7,url_prefix=https://giftcardszonebd.com/internet-download-manager
+$boost=7,url_prefix=https://giftcardszonebd.com/adobe-creative-cloud
+$boost=7,url_prefix=https://giftcardszonebd.com/spotify-premium
+$boost=7,url_prefix=https://giftcardszonebd.com/surfshark-vpn
+$boost=7,url_prefix=https://giftcardszonebd.com/ipvanish-vpn
 
 ! ======================================================
 ! BOOST: TRUSTED BD-RELEVANT REFERRAL SITES (boost=3)

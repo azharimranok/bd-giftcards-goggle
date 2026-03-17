@@ -1,0 +1,91 @@
+! name: Bangladesh Gift Cards & Gaming
+! description: Boosts trusted gift card stores and game top-up sites for Bangladesh users. Prioritizes giftcardszonebd.com pages over irrelevant global results.
+! public: true
+! author: Gift Cards Zone BD
+! homepage: https://giftcardszonebd.com
+! issues: https://github.com/YourUsername/bd-giftcards-goggle/issues
+
+! ======================================================
+! BOOST: HOMEPAGE & MAIN CATEGORY PAGES (boost=10)
+! ======================================================
+$boost=10,site=giftcardszonebd.com
+$boost=8,site=giftcardszonebd.com/card
+$boost=8,site=giftcardszonebd.com/topup
+$boost=8,site=giftcardszonebd.com/shop
+
+! ======================================================
+! BOOST: GAMES TOP UP PAGES (boost=7)
+! ======================================================
+$boost=7,site=giftcardszonebd.com/free-fire-diamonds-top-up
+$boost=7,site=giftcardszonebd.com/roblox-robux-top-up
+$boost=7,site=giftcardszonebd.com/pubg-mobile-uc-top-up
+$boost=7,site=giftcardszonebd.com/efootball-coins-top-up
+$boost=7,site=giftcardszonebd.com/clash-of-clan-top-up
+$boost=7,site=giftcardszonebd.com/call-of-duty-mobile
+
+! ======================================================
+! BOOST: GIFT CARD PAGES (boost=7)
+! ======================================================
+$boost=7,site=giftcardszonebd.com/itunes-gift-cards
+$boost=7,site=giftcardszonebd.com/steam-wallet-code
+$boost=7,site=giftcardszonebd.com/garena-shells-malaysia
+$boost=7,site=giftcardszonebd.com/google-play-gift-card-india
+$boost=7,site=giftcardszonebd.com/roblox-gift-card-usa
+$boost=7,site=giftcardszonebd.com/netflix-gift-card-united-states
+$boost=7,site=giftcardszonebd.com/blizzard-battlenet-balance-card-united-states
+$boost=7,site=giftcardszonebd.com/amazon-gift-card-united-states
+$boost=7,site=giftcardszonebd.com/xbox-live-gift-cards-united-states
+$boost=7,site=giftcardszonebd.com/psn-gift-card-bangladesh
+$boost=7,site=giftcardszonebd.com/nintendo-eshop-prepaid-us
+$boost=7,site=giftcardszonebd.com/hulu-plus-gift-card
+
+! ======================================================
+! BOOST: GAMES KEY PAGES (boost=7)
+! ======================================================
+$boost=7,site=giftcardszonebd.com/fortnite-v-bucks-card
+$boost=7,site=giftcardszonebd.com/valorant-point-php-region
+$boost=7,site=giftcardszonebd.com/apex-legends-coins
+$boost=7,site=giftcardszonebd.com/fifa-23
+$boost=7,site=giftcardszonebd.com/valorant-point-gift-card
+$boost=7,site=giftcardszonebd.com/mobile-legends-bang-bang-diamond
+$boost=7,site=giftcardszonebd.com/pubgm-uc-code
+$boost=7,site=giftcardszonebd.com/free-fire-diamonds-pin-garena
+$boost=7,site=giftcardszonebd.com/unipin-voucher
+
+! ======================================================
+! BOOST: SUBSCRIPTION PAGES (boost=7)
+! ======================================================
+$boost=7,site=giftcardszonebd.com/turnitin-subscription
+$boost=7,site=giftcardszonebd.com/hoichoi-subscription
+$boost=7,site=giftcardszonebd.com/vpn
+$boost=7,site=giftcardszonebd.com/discord-nitro
+$boost=7,site=giftcardszonebd.com/quillbot-premium
+$boost=7,site=giftcardszonebd.com/amazon-prime-video
+$boost=7,site=giftcardszonebd.com/youtube-premium
+$boost=7,site=giftcardszonebd.com/internet-download-manager
+$boost=7,site=giftcardszonebd.com/adobe-creative-cloud
+$boost=7,site=giftcardszonebd.com/spotify-premium
+$boost=7,site=giftcardszonebd.com/surfshark-vpn
+$boost=7,site=giftcardszonebd.com/ipvanish-vpn
+
+! ======================================================
+! BOOST: TRUSTED BD-RELEVANT REFERRAL SITES (boost=3)
+! ======================================================
+$boost=3,site=startech.com.bd
+$boost=2,site=ryanscomputers.com
+
+! ======================================================
+! DOWNRANK: IRRELEVANT GLOBAL COMPETITORS
+! ======================================================
+$downrank=2,site=g2a.com
+$downrank=2,site=eneba.com
+$downrank=2,site=kinguin.net
+$downrank=2,site=cardvault.com
+
+! ======================================================
+! DISCARD: SCAM / FAKE GENERATOR SITES
+! ======================================================
+$discard,site=freegiftcardgenerator.com
+$discard,site=freevbucks.com
+$discard,site=freerobux.com
+$discard,site=freefirediamondhack.com
